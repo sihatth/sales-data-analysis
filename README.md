@@ -23,12 +23,12 @@ The goal is to uncover business insights such as revenue by country and top-sell
 
 ## 📂 Project Structure
 sales-data-analysis/
-│-- sales_analysis.py # Main analysis script
-│-- sales_data.csv # Dataset
-│-- # Saved visualizations
+│-- sales_analysis.py
+│-- sales_data.csv
+│-- README.md
 │-- revenue_by_country.png
 │-- units_sold_by_product.png
-│-- README.md # Project documentation
+
 
 ---
 
@@ -58,4 +58,5 @@ python sales_analysis.py
 If you'd like to connect or discuss data analysis opportunities:
 LinkedIn: https://www.linkedin.com/in/sihatth/ 
 Email: sihatthprojects@gmail.com
+
 
