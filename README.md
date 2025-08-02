@@ -34,10 +34,11 @@ sales-data-analysis/
 
 ## 📈 Visualizations
 ### Revenue by Country
-![Revenue by Country](charts/revenue_by_country.png)
+![Revenue by Country](https://github.com/sihatth/sales-data-analysis/blob/main/revenue_by_country.png?raw=true)
 
 ### Units Sold by Top 10 Products
-![Units Sold by Product](charts/units_sold_by_product.png)
+![Units Sold by Product](https://github.com/sihatth/sales-data-analysis/blob/main/units_sold_by_product.png?raw=true)
+
 
 ---
 
@@ -58,5 +59,6 @@ python sales_analysis.py
 If you'd like to connect or discuss data analysis opportunities:
 LinkedIn: https://www.linkedin.com/in/sihatth/ 
 Email: sihatthprojects@gmail.com
+
 
 
